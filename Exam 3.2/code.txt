@@ -1,0 +1,19 @@
+Top 10 Leetcode Articles to identify patterns in DSA 🔥 :
+
+1) Sliding Window Pattern : https://lnkd.in/gPZDh9Er
+
+2) Two Pointers Pattern : https://lnkd.in/gd7mrf_D
+
+3) Substring Problems Pattern : https://lnkd.in/gkAipSuF
+
+4) Dynamic Programming-1 Pattern : https://lnkd.in/gjkjTwHD
+
+5) Dynamic Programming-2 Pattern : https://lnkd.in/gNKrm_5N
+
+6) Binary Search Pattern : https://lnkd.in/gSwxE2WN
+
+7) Tree Pattern : https://lnkd.in/gmPEVK6v
+
+8) Graph Pattern : https://lnkd.in/gNTrMUKb
+
+Follow Riti Nema for more such helpful content 
